@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDjZmTS8Met0zJ-eSdz-LSkRwJMs0sfctY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>166675403506</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.smartHomeApp</string>
+	<key>PROJECT_ID</key>
+	<string>final-project-ff498</string>
+	<key>STORAGE_BUCKET</key>
+	<string>final-project-ff498.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:166675403506:ios:ae4c2fe5c77d498dad766b</string>
+	<key>DATABASE_URL</key>
+	<string>https://final-project-ff498-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

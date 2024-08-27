@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "166675403506",
+    "firebase_url": "https://final-project-ff498-default-rtdb.firebaseio.com",
+    "project_id": "final-project-ff498",
+    "storage_bucket": "final-project-ff498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166675403506:android:1b509c24277f7c2dad766b",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALSQ6oK57zMQWvk92LV2bTV04v-n1cGks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
